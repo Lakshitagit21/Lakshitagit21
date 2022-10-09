@@ -49,7 +49,7 @@ const lakshita = {
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Lakshita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lakshitagit21&show_icons=true&hide_border=true" />
+  <img width="48%" src='https://github-readme-stats.vercel.app/api?username=Lakshitagit21&show_icons=true&theme=radical&count_private=true'/>
 
 </details>
 
@@ -58,12 +58,18 @@ const lakshita = {
 
 <img align="left" alt="Lakshita's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshitagit21" />
 
-<br />
-<br />
-
-
-
 </details>
+<br />
+
+ 
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshitagit21&count_private=true&theme=radical" alt="Lakshitagit21" />
+
+<br />
+<br />
+
+
+
+
 
 [linkedin]: https://www.linkedin.com/in/lakshita-sodhi-22597b223/
 [portfolio]: https://lakshitagit21.github.io/MyPortfolio/
