@@ -56,7 +56,7 @@ const lakshita = {
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Lakshita's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshitagit21" />
+<img align="left" alt="Lakshita's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshitagit21&show_icons=true&theme=radical&count_private=true" />
 
 </details>
 <br />
