@@ -1,4 +1,4 @@
-## Hello World, I'm Lakshita  👋👩🏾‍💻
+# Hello World, I'm Lakshita  👋👩🏾‍💻
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/96912350/194726088-c9e28ea3-c27e-4080-bf7d-fbde17d5c7eb.gif" width="450" height="288" />
 
@@ -37,6 +37,7 @@
 const lakshita = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, C++, Python, Java],
+  hobbies: "playing games",
   techCommunities: {
                         coremember: "TecSetCo",
                         intern: "CodingNinjas",
