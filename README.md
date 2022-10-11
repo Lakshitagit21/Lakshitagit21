@@ -1,6 +1,6 @@
-### Hello World, I'm Lakshita  👋👩🏾‍💻
+## Hello World, I'm Lakshita  👋👩🏾‍💻
 
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/96912350/194726088-c9e28ea3-c27e-4080-bf7d-fbde17d5c7eb.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/96912350/194726088-c9e28ea3-c27e-4080-bf7d-fbde17d5c7eb.gif" width="450" height="288" />
 
 
 ## I'm a Developer, Coder, and Mentor!!!
