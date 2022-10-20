@@ -13,7 +13,11 @@
 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Talk with me, I am kinda awesome:
-[<img align="left" alt="Lakshita | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/96912350/194726418-b4164cc5-c531-42dd-89a8-f45a31ef6472.png" />][linkedin]
+<p align="left">
+<a href="https://twitter.com/lakshita2126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lakshita2126" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lakshita-sodhi-22597b223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lakshita sodhi" height="30" width="40" /></a>
+<a href="https://instagram.com/lakshita2126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshita" height="30" width="40" /></a>
+</p>
 
 <br />
 
