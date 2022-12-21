@@ -10,6 +10,8 @@
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Punjabi)
+- 🌐 <a href="https://lakshitagit21.github.io/MyPortfolio/">View my personal website</a>
+- 🏆 Click <a href = "https://holopin.io/@lakshita">here</a> to check out my Holopin badges!
 
 
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Talk with me, I am kinda awesome:
