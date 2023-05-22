@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/96912350/194726088-c9e28ea3-c27e-4080-bf7d-fbde17d5c7eb.gif" width="450" height="288" />
 
 
-## I'm a Developer, Coder, and Mentor!!!
+## I'm a Developer and Coder!!!
 - 🔭 I’m currently working on Android Devlopement.
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 👯 I’m looking to collaborate on open source
@@ -48,7 +48,7 @@
 ```javascript
 const lakshita = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, C++, Python, Java],
+  code: [Javascript, HTML, CSS, C++, Python, Java, Kotlin],
   hobbies: "playing games",
   techCommunities: {
                         coremember: "TecSetCo",
