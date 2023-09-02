@@ -4,7 +4,7 @@
 
 
 ## I'm a Developer and Coder!!!
-- 🔭 I’m currently working on Android Devlopement.
+- 🔭 I’m currently working on Flutter.
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
