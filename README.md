@@ -36,6 +36,8 @@
 <img align="left" alt="figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="swift" width="26px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" />
+<img align="left" alt="dart" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
 
 <br />
 <br />
