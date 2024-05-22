@@ -4,9 +4,9 @@
 
 
 ## I'm a Developer and Coder!!!
-- 🔭 I’m currently working on Flutter.
+- 🔭 I’m currently working on IOS, Android and Flutter.
 - 🌱 I’m currently learning Data Structures & Algorithms
-- 👯 I’m looking to collaborate on open source
+- 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, Punjabi)
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/lakshita2126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lakshita2126" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lakshita-sodhi-22597b223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lakshita sodhi" height="30" width="40" /></a>
-<a href="https://instagram.com/lakshita2126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshita" height="30" width="40" /></a>
+<a href="https://instagram.com/lakshita._.sodhi46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshita" height="30" width="40" /></a>
 </p>
 
 <br />
@@ -32,10 +32,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />
-<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<img align="left" alt="photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 <img align="left" alt="firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
@@ -48,11 +46,11 @@
 ```javascript
 const lakshita = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, C++, Python, Java, Kotlin],
+  code: [Swift UI, UIKit, HTML, CSS, C++, Python, Java, Kotlin, Dart, Flutter],
   hobbies: "playing games",
   techCommunities: {
                         coremember: "TecSetCo",
-                        intern: "CodingNinjas",
+                        intern: "ERK Labs",
                         member: "CESS"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Data Structures & Algorithms"
